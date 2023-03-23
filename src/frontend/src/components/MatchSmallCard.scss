@@ -1,0 +1,22 @@
+.MatchDetailCard{
+    padding:10px;
+    margin-bottom:20px;
+
+    .match-result{
+        font-weight: bold;
+        color: black;
+        width: 187%;
+        margin-top: 5em;
+        padding: 9px;
+        font-size: 1.2rem;
+    }
+
+    .other-team-in-small-card{
+        color:blue;
+    }
+
+    .heading-small-card{
+        display:flex;
+        flex-direction:column;
+    }
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;600&family=Kanit:wght@300&display=swap');
+
+
+
+
+*{
+  box-sizing:border-box;
+  margin:0px;
+  padding:0px;
+}
+
+a{
+  text-decoration:none;
+  color:green;
+}
+
+body {
+  font-family: 'Edu NSW ACT Foundation', cursive;
+font-family: 'Kanit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#282c34;
+  color:white;
+  max-width: 95%;
+  margin:0 auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
